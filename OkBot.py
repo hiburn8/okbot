@@ -16,7 +16,7 @@ print "		   ':::::::::'   ';'        "
 print "		     ':::::'                "
 print "		       ':'      The-OkBot   "
 print "		An OkCupid Popularity Bot \n"
-print "		   ThatPentestGuy.co.uk	  \n"
+print "		   hiburn8.org	  \n"
 
 vote = True
 message = True
